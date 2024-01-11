@@ -1,0 +1,1 @@
+# Minimum-index-character-GFG-problem
